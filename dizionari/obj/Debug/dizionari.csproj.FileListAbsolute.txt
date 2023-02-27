@@ -1,0 +1,11 @@
+C:\Users\patelli.19326\Desktop\Compiti-Scolastici\dizionari\dizionari\bin\Debug\dizionari.exe.config
+C:\Users\patelli.19326\Desktop\Compiti-Scolastici\dizionari\dizionari\bin\Debug\dizionari.exe
+C:\Users\patelli.19326\Desktop\Compiti-Scolastici\dizionari\dizionari\bin\Debug\dizionari.pdb
+C:\Users\patelli.19326\Desktop\Compiti-Scolastici\dizionari\dizionari\obj\Debug\dizionari.csproj.AssemblyReference.cache
+C:\Users\patelli.19326\Desktop\Compiti-Scolastici\dizionari\dizionari\obj\Debug\dizionari.csproj.SuggestedBindingRedirects.cache
+C:\Users\patelli.19326\Desktop\Compiti-Scolastici\dizionari\dizionari\obj\Debug\dizionari.Form1.resources
+C:\Users\patelli.19326\Desktop\Compiti-Scolastici\dizionari\dizionari\obj\Debug\dizionari.Properties.Resources.resources
+C:\Users\patelli.19326\Desktop\Compiti-Scolastici\dizionari\dizionari\obj\Debug\dizionari.csproj.GenerateResource.cache
+C:\Users\patelli.19326\Desktop\Compiti-Scolastici\dizionari\dizionari\obj\Debug\dizionari.csproj.CoreCompileInputs.cache
+C:\Users\patelli.19326\Desktop\Compiti-Scolastici\dizionari\dizionari\obj\Debug\dizionari.exe
+C:\Users\patelli.19326\Desktop\Compiti-Scolastici\dizionari\dizionari\obj\Debug\dizionari.pdb
